@@ -1,14 +1,8 @@
 [
     {
-        "student_id": "S001",
+        "student_id": "12",
         "name": "Nguyen Duy Khanh",
-        "age": 23,
-        "score": 9.2
-    },
-    {
-        "student_id": "S003",
-        "name": "Nam",
-        "age": 21,
-        "score": 9.0
+        "age": 22,
+        "score": 10.0
     }
 ]
